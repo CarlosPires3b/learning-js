@@ -1,5 +1,3 @@
-
-
 let isAtivo = false
 console.log(isAtivo)
 
@@ -31,7 +29,6 @@ console.log('----------//----------')
 
 console.log('pra finalizar...')
 console.log(!!('' || null || 0 || ' ')) // uma das condições tem que se verdadeira
-
 
 let nome = 'Lucas'
 

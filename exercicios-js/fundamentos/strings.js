@@ -1,4 +1,3 @@
-
 const escola = "Cod3r"
 
 console.log(escola.charAt(4)) // = Chama o caractere que está no indice 4 dentro da string, começando com 0 1 2 3...
@@ -17,8 +16,6 @@ console.log(escola.replace(3, 'e')) // = substui letras, ele pega o indice 3 e s
 console.log(escola.replace(/\w/g, 'e')) // = regular expression(regex) substitua todos os digitos pela letra 'e'
 
 console.log('Stephani,Carlos,Leonidas'.split(',')) // = gera um array com 3 elementos independentes a partir de umas string
-
-
 
 let nota1 = 9
 let nota2 = 10
