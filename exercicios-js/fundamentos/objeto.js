@@ -37,3 +37,19 @@ const employee = {
     cargo: 'Gerente de operações'
 }
 console.log(employee)
+
+const pessoa = {}
+
+pessoa.nome = 'Stephani',
+pessoa.idade = 21,
+pessoa.sexo = 'Feminino'
+
+console.log(pessoa)
+
+const pessoa2 = {
+    nome: 'Carlos',
+    idade: 20,
+    sexo: 'Masculino'
+}
+
+console.log(pessoa2)
