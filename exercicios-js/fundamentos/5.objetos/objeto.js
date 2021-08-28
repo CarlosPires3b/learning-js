@@ -52,4 +52,14 @@ const pessoa2 = {
     sexo: 'Masculino'
 }
 
+const humano = {
+    nome: 'Leonidas',
+    idade: 27,
+    sexo: 'Feminino',
+    altura: 188,
+    peso: 87
+}
+
+console.log(humano)
+
 console.log(pessoa2)
