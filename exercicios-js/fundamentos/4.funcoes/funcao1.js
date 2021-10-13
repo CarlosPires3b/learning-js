@@ -2,6 +2,15 @@
 function imprimirSoma(a, b) {
     console.log(a + b)
 }
+function subtracao(a, b) {
+    return a - b
+}
+
+function imprime(a = subtracao) {
+    console.log(subtracao(6, 2))
+}
+
+imprime()
 
 imprimirSoma(2, 3) // soma
 imprimirSoma(2) // NaN(Not a Number)

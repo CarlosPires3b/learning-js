@@ -51,6 +51,8 @@ const pessoa2 = {
     idade: 20,
     sexo: 'Masculino'
 }
+console.log(pessoa2)
+
 
 const humano = {
     nome: 'Leonidas',
@@ -62,4 +64,11 @@ const humano = {
 
 console.log(humano)
 
-console.log(pessoa2)
+const cachorro = {
+    nome: 'Sebastian',
+    raca: 'salsicha',
+    sexo: 'Macho',
+    peso: '3kg'
+}
+
+console.log(cachorro)
